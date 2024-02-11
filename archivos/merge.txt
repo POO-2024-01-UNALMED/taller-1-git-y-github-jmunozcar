@@ -1,1 +1,1 @@
-Archivos no podía subirse al servidor, pues era una carpeta vacía
+Archivos no podía crearse, pues era una carpeta vacía
