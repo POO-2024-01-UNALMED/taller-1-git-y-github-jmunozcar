@@ -1,1 +1,3 @@
 Juan David Muñoz Cardona, 21 años, mis aspiraciones con la materia son: Comprender profundamente los conceptos de la programación orientada a objetos, aprender Java
+Archivos no podía crearse, pues era una carpeta vacía
+Porque esto puede causar conflicto entre los archivos, de manera que tendríamos que decidir cuál archivo conservar, o conservar ambos a la hora de hacer un push o un pull
